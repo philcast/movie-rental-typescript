@@ -46,6 +46,6 @@ Unit tests can be run using npm:
 
 or 
 
-    $ npm test -- --watchAll
+    $ npm test -- --watch
 
 Tests are located in the src directory and run using jest.
